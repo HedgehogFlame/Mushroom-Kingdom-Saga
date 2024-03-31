@@ -11,8 +11,8 @@
   "name":"obj_crate_normal",
   "overriddenProperties":[],
   "parent":{
-    "name":"Blocks",
-    "path":"folders/Mushroom Kingdom Saga/Object/Blocks.yy",
+    "name":"Crate",
+    "path":"folders/Mushroom Kingdom Saga/Object/Blocks/Crate.yy",
   },
   "parentObjectId":{
     "name":"obj_blockparent",
