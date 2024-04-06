@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"9d02a270-36b1-49ac-8bec-fcf50c43bc60","name":"9d02a270-36b1-49ac-8bec-fcf50c43bc60","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"e56ae491-74db-482c-8c95-d44fe6de2ad4","name":"e56ae491-74db-482c-8c95-d44fe6de2ad4","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Overworld",
-    "path":"folders/Mushroom Kingdom Saga/Sprites/Special/Backgrounds & Tilesets/Backgrounds/SMB1/Overworld.yy",
+    "name":"SMB1",
+    "path":"folders/Mushroom Kingdom Saga/Sprites/Special/Backgrounds & Tilesets/Backgrounds/SMB1.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"9d02a270-36b1-49ac-8bec-fcf50c43bc60","path":"sprites/spr_bgr_smb1_fgr_hills/spr_bgr_smb1_fgr_hills.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"c64af5ae-ab39-4611-a387-2780804ca06f","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e56ae491-74db-482c-8c95-d44fe6de2ad4","path":"sprites/spr_bgr_smb1_fgr_hills/spr_bgr_smb1_fgr_hills.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"5de78a54-f5b6-499a-a9cf-c56ebcd0061e","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

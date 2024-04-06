@@ -26,10 +26,14 @@ if (instance_exists(obj_lightcontrol)) {
 		parent = other.id;
 		radius = 8;
 		new_radius = 8;
+		image_blend = $002090F8;
 	}
 }
 
 //Set green fireball
 if (global.player == 1)
 && (object_index != obj_iceball)
+{
 	sprite_index = spr_fireball_luigi;
+	image_blend = $0000E8B0;
+}
